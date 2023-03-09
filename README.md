@@ -5,7 +5,7 @@
 - 🐍 Former <b>PyLadies Miami</b> Founder and Organizer  
 - 🎶 Former Professional Musician (Lyric Opera of Chicago, Milwaukee Symphony, Hawaii Symphony, to name a few)
 - 👩🏻‍💻 Pythonista 
-- 💍 Engaged to a Saffer
+- 💍 Married to a Saffer
 - 🥶 Chicago native --> 🦩 Miami --> 🇬🇧 Bristol
 
 <details>
