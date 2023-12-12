@@ -6,7 +6,7 @@
 - 🎶 Former Professional Musician (Lyric Opera of Chicago, Milwaukee Symphony, Hawaii Symphony, to name a few)
 - 👩🏻‍💻 Pythonista 
 - 💍 Married to a Saffer
-- 🥶 Chicago native --> 🦩 Miami --> 🇬🇧 Bristol
+- 🥶 Chicago native --> 🦩 Miami --> 🇬🇧 Bristol --> 🇬🇧 Reading
 
 <details>
   <summary><b>Tech Talks</b></summary>
