@@ -1,4 +1,7 @@
-<h2 align="center">Heyo <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="55px" height="55px"> I'm Maddie </h2>
+<h2 align="center">Greetings! I'm Maddie </h2>
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 #### Here's a bit about me:
 
@@ -22,9 +25,9 @@
   <summary><b>Connect</b></summary>
   </br>
     <a href="https://twitter.com/maddiecampos3" target="blank">
-    <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
+    <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg"/>
     <a href="https://www.linkedin.com/in/madelenecampos/" target="blank">
-    <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
+    <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg"/>
     <a href="https://maddiecampos.wordpress.com/" target="blank">
     <img align="left" alt="Personal Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wordpress.svg"/>
     <a href="https://www.youtube.com/channel/UCTJUKXiJN6HzoZzOxARetmw" target="blank">
